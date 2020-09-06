@@ -1,11 +1,3 @@
-/*
- * Chef        : preetam rane
- * Chef-Id     : pvr2114
- * Dish        : Repeated Substring Pattern
- * Created on  : Friday, 4th September 2020 11:35:18 am
- */
-
-
 #include <bits/stdc++.h>
 
 using namespace std;

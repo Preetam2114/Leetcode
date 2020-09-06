@@ -1,10 +1,3 @@
-/*
- * Chef        : preetam rane
- * Chef-Id     : pvr2114
- * Dish        : Partition Labels
- * Created on  : Saturday, 5th September 2020 8:31:46 am
- */
-
 #include <bits/stdc++.h>
 
 using namespace std;
