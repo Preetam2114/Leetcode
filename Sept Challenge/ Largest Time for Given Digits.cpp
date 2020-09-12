@@ -1,11 +1,3 @@
-/*
- * Chef        : preetam rane
- * Chef-Id     : pvr2114
- * Dish        : Largest Time for Given Digits
- * Created on  : Tuesday, 1st September 2020 3:57:12 pm
- */
-
-
 #include <bits/stdc++.h>
 
 using namespace std;
